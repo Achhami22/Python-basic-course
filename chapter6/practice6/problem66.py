@@ -5,6 +5,7 @@
 # 60 - 70  → C  
 # 50 - 60  → D  
 # < 50     → F  
+
 marks = int(input("Enter your marks: "))
 
 if(marks<=100 and marks>=90):
